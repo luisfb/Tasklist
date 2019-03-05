@@ -2,13 +2,19 @@
 
 **Front-end desenvolvido em react.**
 
-Para executar basta rodar o comando:
+Front-end simplificado (Não contém todos os requisitos do enunciado). Não faz/mostra todos os recursos da Web API, como status da task, descrição e data de alteração.
 
-- npm-install
+Permite apenas adicionar tarefas, excluir, marcar como feito, e desmarcar.
+
+Para executar basta rodar os comandos:
+
+- npm install
+- npm start
 
 **Back-end desenvolvido em asp.net core 2.0.**
 
-- basta executar e usar o swagger para teste da API.
+A WebAPI desenvolvida contém todos os requisitos do enunciado. O sistema opera em um banco de dados em memória.
+- basta executar a webAPI e usar o swagger para testes REST.
 
 Para rodar o front integrado ao back-end:
 
